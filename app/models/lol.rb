@@ -1,3 +1,3 @@
-class Omgomg < ActiveRecord::Base
+class Lol < ActiveRecord::Base
   # attr_accessible :title, :body
 end
